@@ -1,0 +1,5 @@
+name: CraftVerseShop
+version: 1.0
+main: pl.craftverse.shop.CraftVerseShop
+api-version: 1.20
+depend: [LuckPerms]
